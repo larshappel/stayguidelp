@@ -97,8 +97,8 @@ Header-Background
 }
 
 .overlay-bg {
-    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%) repeat scroll 0 0;
-    background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, #1e5799 0%, #ffa948 0%, #d10de8 100%) repeat scroll 0 0;
+    background: rgba(0, 0, 0, 0) linear-gradient(to right, #1e5799 0%, #ffa948 0%, #d10de8 100%) repeat scroll 0 0;
 }
 
 .dewo:after {
@@ -193,7 +193,7 @@ Angle-background
 .border-icon {
     border: 1px solid;
     border-radius: 50%;
-    color: #50d1c0;
+    color: #ffa948;
     font-size: 20px;
     height: 50px;
     line-height: 2.7;
@@ -205,7 +205,7 @@ Angle-background
 
 .active .single-feature .border-icon,
 .single-feature:hover .border-icon {
-    background-color: #50d1c0;
+    background-color: #ffa948;
     color: #ffffff;
 }
 
@@ -349,14 +349,14 @@ Angle-background
 
 .btn.btn-white:hover {
     background-color: #ffffff;
-    color: #2fccd0;
+    color: #d10de8;
 }
 
 .btn.btn-link.active:hover,
 .btn.btn-link {
-    border: 1px solid #50d1c0;
+    border: 1px solid #d10de8;
     border-radius: 100px;
-    color: #50d1c0;
+    color: #d10de8;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 2px;
@@ -371,7 +371,7 @@ Angle-background
 .btn.btn-link.active,
 .btn.btn-link:hover,
 .price-table.active .btn.btn-link {
-    background-color: #50d1c0;
+    background-color: #d10de8;
     box-shadow: 2px 3px 5px 0 rgba(0, 0, 0, 0.2);
     color: #ffffff;
     -webkit-transform: translateY(-3px);
@@ -484,7 +484,7 @@ address {
 .mainmenu-area.affix {
     background: #1e5799;
     background: -webkit-linear-gradient(left, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
-    background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+    background: linear-gradient(to right, #1e5799 0%, #ffa948 0%, #d10de8 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#16c9f6', GradientType=1);
     box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
     padding: 0;
@@ -537,7 +537,7 @@ address {
 
 .price-table.active .amount,
 .price-table.active .price-title {
-    color: #50d1c0;
+    color: #ffa948;
 }
 
 .price-table {

@@ -46,8 +46,8 @@
 }
 
 .btn-icon span {
-    background-color: #2fccd0;
-    border: 1px solid #2fccd0;
+    background-color: #d10de8;
+    border: 1px solid #d10de8;
     border-radius: 50%;
     box-shadow: 2px 2px 5px 0 rgba(255, 255, 255, 0.2);
     color: #ffffff;
@@ -67,7 +67,7 @@
 
 .btn-icon:hover span {
     background-color: #ffffff;
-    color: #2fccd0;
+    color: #d10de8;
 }
 
 .relative {
@@ -205,7 +205,7 @@ Angle-background
 
 .active .single-feature .border-icon,
 .single-feature:hover .border-icon {
-    background-color: #50d1c0;
+    background-color: #d10de8;
     color: #ffffff;
 }
 
@@ -275,7 +275,7 @@ Angle-background
 }
 
 .social-menu a {
-    color: #50d1c0;
+    color: #d10de8;
     display: inline-block;
     height: 35px;
     line-height: 2.8;
@@ -287,7 +287,7 @@ Angle-background
 }
 
 .social-menu a:hover {
-    background-color: #50d1c0;
+    background-color: #d10de8;
     box-shadow: 1px 1px 6px 1px rgba(0, 0, 0, 0.2);
     color: #ffffff;
 }
@@ -354,9 +354,9 @@ Angle-background
 
 .btn.btn-link.active:hover,
 .btn.btn-link {
-    border: 1px solid #50d1c0;
+    border: 1px solid #d10de8;
     border-radius: 100px;
-    color: #50d1c0;
+    color: #d10de8;
     font-size: 12px;
     font-weight: 500;
     letter-spacing: 2px;
@@ -371,7 +371,7 @@ Angle-background
 .btn.btn-link.active,
 .btn.btn-link:hover,
 .price-table.active .btn.btn-link {
-    background-color: #50d1c0;
+    background-color: #d10de8;
     box-shadow: 2px 3px 5px 0 rgba(0, 0, 0, 0.2);
     color: #ffffff;
     -webkit-transform: translateY(-3px);
@@ -537,7 +537,7 @@ address {
 
 .price-table.active .amount,
 .price-table.active .price-title {
-    color: #50d1c0;
+    color: #d10de8;
 }
 
 .price-table {
@@ -581,8 +581,8 @@ address {
 }
 
 #scrollUp {
-    background-color: #50d1c0;
-    border: 1px solid #50d1c0;
+    background-color: #ec72ad;
+    border: 1px solid #ec72ad;
     border-radius: 2px;
     bottom: 30px;
     color: #ffffff;
@@ -594,7 +594,7 @@ address {
 }
 
 #scrollUp:hover {
-    background-color: #55c4b5;
+    background-color: #ec72ad;
 }
 
 .img-full {
